@@ -20,4 +20,4 @@
 
 
 ### Video Walk Through
-![](https://github.com/kuanhsuh/jscalculator/blob/master/demo.gif)
+![](https://github.com/kuanhsuh/ReactJS_randomtextgenerator/blob/master/demo.gif)
