@@ -7,6 +7,7 @@ const Header = () => {
         <h1>
         ReactJS Lorem Ipsum Generator
         </h1>
+        <p>Github: <a href="https://github.com/kuanhsuh/ReactJS_randomtextgenerator">Github Repo</a></p>
       </div>
     </div>
   );
